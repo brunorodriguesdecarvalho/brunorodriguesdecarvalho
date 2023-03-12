@@ -1,4 +1,4 @@
-# It's me, Bruno!
+# :mushroom: It's me, Bruno!
 <br>
 
 | :man_technologist: About Me | 📫 How to reach me | :octocat: My OctoCat |
