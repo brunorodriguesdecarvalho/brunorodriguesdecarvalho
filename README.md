@@ -1,6 +1,6 @@
 # About Bruno Rodrigues de Carvalho
-<img src="octocat-1678629653916.png" alt="Imagem" style="display: inline-block; width: 150px;">| 🔭 I’m currently working for [Mastercard Digital Identity Services](https://idservice.com/en/home.html), as Project Manager Technical<br>🌱 I’m currently learning Data Structures and Software Engineering at [Faculdade de Tecnlogoia de São Paulo](http://www.fatecsp.br/)<br>👯 I’m looking to collaborate on front and backend projects<br>💬 Ask me about Systems Analysis, Business Intelligence and Web programming <br>😄 Pronouns: He/His.
-| :--: | :-- |
+🔭 I’m currently working for [Mastercard Digital Identity Services](https://idservice.com/en/home.html), as Project Manager Technical<br>🌱 I’m currently learning Data Structures and Software Engineering at [Faculdade de Tecnlogoia de São Paulo](http://www.fatecsp.br/)<br>👯 I’m looking to collaborate on front and backend projects<br>💬 Ask me about Systems Analysis, Business Intelligence and Web programming <br>😄 Pronouns: He/His. | <img src="octocat-1678629653916.png" alt="Imagem" style="display: inline-block; width: 150px;">
+| :-- | --: |
 
 
 
