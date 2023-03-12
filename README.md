@@ -74,7 +74,7 @@
 
 # 🏆 Stats 🔝
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunorodriguesdecarvalho&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brunorodriguesdecarvalho&theme=dark">
 [![Top 10 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunorodriguesdecarvalho&theme=dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=brunorodriguesdecarvalho&theme=dark">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunorodriguesdecarvalho&theme=dark">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=brunorodriguesdecarvalho&theme=react-dark">
