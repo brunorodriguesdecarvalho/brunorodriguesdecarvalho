@@ -60,7 +60,7 @@
 # :bar_chart: My GitHub Stats 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunorodriguesdecarvalho&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top 10 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunorodriguesdecarvalho&theme=dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top 20 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunorodriguesdecarvalho&theme=dark&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunorodriguesdecarvalho&theme=dark">
 
