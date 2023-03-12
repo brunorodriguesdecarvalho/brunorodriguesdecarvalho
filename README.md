@@ -1,4 +1,4 @@
-# Meu Perfil
+# Bruno Rodrigues de Carvalho
 
-Este é o meu perfil no GitHub.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunorodriguesdecarvalho)](https://github.com/anuraghazra/github-readme-stats)
 
