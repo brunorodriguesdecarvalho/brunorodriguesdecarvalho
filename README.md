@@ -1,16 +1,6 @@
-<img
-  src="octocat-1678629653916.png"
-  alt="Bruno, the Firefighter."
-  title="Bruno, the Firefighter."
-  style="display: inline-block; margin: 0 auto; width: 200px">
-
-
 # About Bruno Rodrigues de Carvalho
-- 🔭 I’m currently working on Mastercard ID Services
-- 🌱 I’m currently learning Data Structures and Software Engineering
-- 👯 I’m looking to collaborate on front and backend services
-- 💬 Ask me about Development and Business Intelligence
-- 😄 Pronouns: He/His.
+<img src="octocat-1678629653916.png" alt="Imagem" style="display: inline-block; width: 150px;">|🔭 I’m currently working on [ Mastercard Digital Identity Services](https://idservice.com/en/home.html)<br>🌱 I’m currently learning Data Structures and Software Engineering<br>👯 I’m looking to collaborate on front and backend projects<br>💬 Ask me about Development and Business Intelligence<br>😄 Pronouns: He/His.
+| :--: | :-- |
 
 
 
