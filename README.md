@@ -1,26 +1,20 @@
-# About Bruno Rodrigues de Carvalho
-🔭 I’m currently working for [Mastercard Digital Identity Services](https://idservice.com/en/home.html), as Project Manager Technical<br>🌱 I’m currently learning Data Structures and Software Engineering at [Faculdade de Tecnlogoia de São Paulo](http://www.fatecsp.br/)<br>👯 I’m looking to collaborate on front and backend projects<br>💬 Ask me about Systems Analysis, Business Intelligence and Web programming <br>😄 Pronouns: He/His. | <img src="octocat-1678629653916.png" alt="Imagem" style="display: inline-block; width: 150px;">
-| :-- | --: |
+# It's me, Bruno!
+<br>
+
+| :man_technologist: About Me | 📫 How to reach me | :octocat: My OctoCat |
+| :-- | :--: | :--: |
+:briefcase: I’m working for [Mastercard ID](https://idservice.com/en/home.html), as Project Manager Technical<br>:books: I’m learning Data Structures and Software Engineering at [FATEC-SP](http://www.fatecsp.br/)<br>👯 I’m looking to collaborate on front and backend projects<br>:question: Ask me about Systems Analysis, BI and Web programming <br>😄 Pronouns: He/His :male_sign: | <a href="https://instagram.com/bcarva13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br><a href="https://www.linkedin.com/in/brunorodriguesdecarvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  | <img src="octocat-1678629653916.png" alt="Imagem" style="display: inline-block; width: 250px;"> 
+
+<br><br>
+# :mag_right: What are you going to find on my repos
+- :computer: Programming exercises
+- :gear: Automation solutions
+- :electron: Web projects
+- :pushpin: Random code backups 
 
 
-
-## 📫 How to reach me
-<div>
-  <a href="https://instagram.com/bcarva13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brunorodriguesdecarvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-
-
-# What are you going to find on my repos
-- Programming exercises
-- Automation solutions
-- Web projects
-- Random code backups
-
-
-
-# Tools & Technologies         
+<br><br><br>
+# :hammer_and_wrench: Tools & Technologies         
 <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />&nbsp; 
 <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />&nbsp; 
 <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg" />&nbsp; 
@@ -59,10 +53,11 @@
 <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp; 
 <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />&nbsp; 
 <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp; 
-         
+
+<br><br><br>
          
 
-# 🏆 Stats 🔝
+# :bar_chart: My GitHub Stats 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunorodriguesdecarvalho&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top 10 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunorodriguesdecarvalho&theme=dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
