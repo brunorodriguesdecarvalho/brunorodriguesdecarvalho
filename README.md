@@ -4,13 +4,22 @@
   title="Bruno, the Firefighter."
   style="display: inline-block; margin: 0 auto; width: 200px">
 
+
 # About Bruno Rodrigues de Carvalho
 - 🔭 I’m currently working on Mastercard ID Services
 - 🌱 I’m currently learning Data Structures and Software Engineering
 - 👯 I’m looking to collaborate on front and backend services
 - 💬 Ask me about Development and Business Intelligence
-- 📫 How to reach me:
 - 😄 Pronouns: He/His.
+
+
+
+## 📫 How to reach me
+<div>
+  <a href="https://instagram.com/bcarva13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/brunorodriguesdecarvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 
 
 # What are you going to find on my repos
@@ -18,6 +27,7 @@
 - Automation solutions
 - Web projects
 - Random code backups
+
 
 
 # Tools & Technologies         
@@ -59,19 +69,21 @@
 <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp; 
 <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />&nbsp; 
 <img style="width: 50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp; 
-          
+         
+         
 
-# Stats
+# 🏆 Stats 🔝
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunorodriguesdecarvalho&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top 10 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunorodriguesdecarvalho&theme=dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=brunorodriguesdecarvalho&theme=dark">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunorodriguesdecarvalho&theme=dark">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=brunorodriguesdecarvalho&theme=react-dark">
+<img src="https://github-profile-trophy.vercel.app/?username=brunorodriguesdecarvalho&theme=gruvbox&row=2&column=3&no-frame=true">
 
-## 📫 How to reach me:
-<div>
-  <a href="https://instagram.com/bcarva13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brunorodriguesdecarvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+
+
 
 ## Snake
 ![Snake animation](https://github.com/brunorodriguesdecarvalho/brunorodriguesdecarvalho/blob/output/github-contribution-grid-snake.svg)
